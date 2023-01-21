@@ -261,7 +261,7 @@
             dots: false,
             nav: false,
             margin: 10,
-            items: 3,
+            items: 1,
             autoplay: true,
             autoplayHoverPause: false,
             autoplayTimeout: 3800,
